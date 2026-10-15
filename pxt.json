@@ -2,7 +2,12 @@
     "name": "Bob The Chocolate Bar And The Sadness Corruption2",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "arcade-piano-roll": "github:microsoft/arcade-piano-roll#v0.0.1",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.1.0",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.6.0",
+        "light": "*"
     },
     "files": [
         "main.blocks",
